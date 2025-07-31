@@ -1,6 +1,6 @@
 # Kinect-Based Human Pose Estimation and Analysis System
 
-This project is a full-featured application for extracting human skeleton data using Kinect and evaluating fitness movements based on joint angles and bone lengths. It was developed as a graduation thesis project at Jinan University.
+This project is a full-featured application for extracting human skeleton data using Kinect and evaluating fitness movements based on joint angles and bone lengths. It was developed as a  project at Jinan University.
 
 ![System Architecture](images/system-architecture.png)
 ![Software Interface](images/software-interface.png)
