@@ -1,4 +1,4 @@
-# Kinect-based Skeleton Tracking and Fitness Evaluation System
+# Kinect-Based Human Pose Estimation and Analysis System
 
 This project is a full-featured application for extracting human skeleton data using Kinect and evaluating fitness movements based on joint angles and bone lengths. It was developed as a graduation thesis project at Jinan University.
 
