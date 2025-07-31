@@ -58,8 +58,8 @@ The system performs the following steps:
 
 ## 📚 Documentation
 
-📄 [Thesis Summary (English)](docs/thesis_summary_en.md)  
-📄 [Original Thesis (Chinese)](Not Included - PDF Format)
+📄 [Project Summary (English)](docs/thesis_summary_en.md)  
+📄 [Original Report (Chinese)](Not Included - PDF Format)
 
 ## 🚀 Future Improvements
 
